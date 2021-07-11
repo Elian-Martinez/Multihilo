@@ -1,0 +1,12 @@
+C:\Users\Luis Tejeda\Desktop\EjemploHilos\EjemploHilos\bin\Debug\netcoreapp3.1\EjemploHilos.exe
+C:\Users\Luis Tejeda\Desktop\EjemploHilos\EjemploHilos\bin\Debug\netcoreapp3.1\EjemploHilos.deps.json
+C:\Users\Luis Tejeda\Desktop\EjemploHilos\EjemploHilos\bin\Debug\netcoreapp3.1\EjemploHilos.runtimeconfig.json
+C:\Users\Luis Tejeda\Desktop\EjemploHilos\EjemploHilos\bin\Debug\netcoreapp3.1\EjemploHilos.runtimeconfig.dev.json
+C:\Users\Luis Tejeda\Desktop\EjemploHilos\EjemploHilos\bin\Debug\netcoreapp3.1\EjemploHilos.dll
+C:\Users\Luis Tejeda\Desktop\EjemploHilos\EjemploHilos\bin\Debug\netcoreapp3.1\EjemploHilos.pdb
+C:\Users\Luis Tejeda\Desktop\EjemploHilos\EjemploHilos\obj\Debug\netcoreapp3.1\EjemploHilos.csprojAssemblyReference.cache
+C:\Users\Luis Tejeda\Desktop\EjemploHilos\EjemploHilos\obj\Debug\netcoreapp3.1\EjemploHilos.AssemblyInfoInputs.cache
+C:\Users\Luis Tejeda\Desktop\EjemploHilos\EjemploHilos\obj\Debug\netcoreapp3.1\EjemploHilos.AssemblyInfo.cs
+C:\Users\Luis Tejeda\Desktop\EjemploHilos\EjemploHilos\obj\Debug\netcoreapp3.1\EjemploHilos.dll
+C:\Users\Luis Tejeda\Desktop\EjemploHilos\EjemploHilos\obj\Debug\netcoreapp3.1\EjemploHilos.pdb
+C:\Users\Luis Tejeda\Desktop\EjemploHilos\EjemploHilos\obj\Debug\netcoreapp3.1\EjemploHilos.genruntimeconfig.cache
